@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+# Atarashii Gakko! 
+Atarashii Gakkou no Leaders (新しい学校のリーダーズ; lit.: New School Leaders) is a dance and vocal performance group formed in 2015.
+They made their international debut as being part of the label 88rising in January 2021, under the name ATARASHII GAKKO!
 
-You can use the [editor on GitHub](https://github.com/Lorenzoenzy/JuanLorenzo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![274001508_615439476516666_8983302862679256191_n](https://user-images.githubusercontent.com/101574910/159451472-68de8f3d-df73-4931-b157-e776ed311b38.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(Left to Right) Rin, Suzuka, Mizyu (**Leader**) , Kanon
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Members 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![272896232_108511578415149_8071856279277522329_n](https://user-images.githubusercontent.com/101574910/159457640-6cd44810-f2ac-488f-8d26-a1e37942b7ef.jpg)
 
-- Bulleted
-- List
+Kimura Kanon (木村カノン) 
+* Born: January 18, 2002 (age 20)
+* Birth Place: Gunma, Japan
+* Blood Type: B
+* Zodiac Sign: Capricorn
+* Height: 153 cm (5 ft 0.2 in)
+* Occupation: Singer, Dancer
+* Years Active: 2015-Present
+* Favorite Food: Mango
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![272989360_108511681748472_8926547023764474112_n](https://user-images.githubusercontent.com/101574910/159455753-ef79dad3-cfa1-4774-807c-750972d66b50.jpg)
 
-[Link](url) and ![Image](src)
-```
+Nagasawa Rin (長澤凛)
+* Born: September 11, 2001 (age 20)
+* Birth Place: Saitama, Japan
+* Height: 154 cm (5 ft 0.6 in)
+* Blood Type: A
+* Zodiac Sign: Virgo
+* Occupation Singer, Dancer
+* Years Active 2015-Present
+* Favorite Food: Eggplant
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+![272630639_108511625081811_5006926480449384973_n](https://user-images.githubusercontent.com/101574910/159456817-dae0e717-86b7-43c1-b65d-683d8e0d88f3.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lorenzoenzy/JuanLorenzo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Kanazawa Suzuka (金沢涼花)
+* Born: November 29, 2001 (age 20)
+* Birth Place: Osaka, Japan
+* Blood Type: A
+* Zodiac Sign: Sagittarius
+* Height: 168 cm (5 ft 6.1 in)
+* Occupation: Singer, Dancer
+* Years Active: 2015-Present
+* Favorite Food: Mountain yam
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![272919098_108511518415155_8509660936137309285_n](https://user-images.githubusercontent.com/101574910/159458887-8b42b846-e2ba-46f4-9880-14bdf0b02764.jpg)
+
+Ishii Mizuki (石井美月)
+* Born: December 22, 1998 (age 23)
+* Birth Place: Tokyo, Japan
+* Blood Type: B
+* Zodiac Sign: Capricorn
+* Height: 151 cm (4 ft 11.4 in)
+* Occupation: Singer, Dancer
+* Years Active: 2015-Present
+* Favorite Food: Bean sprouts
+
+
+# Discography
+
+## Albums
+* [2018.03.20] Maenarawanai (マエナラワナイ)
+* [2019.03.06] Wakage Gaitaru (若気ガイタル)
+
+## Singles
+* [2017.06.07] Dokubana (毒花)
+* [2017.10.24] Kimiwaina'17 (キミワイナ'17)
+* [2018.08.29] Ookami no Uta (狼の詩)
+
+## Digital EPs
+* [2021.11.12] SNACKTIME
+
+## Digital Singles
+* [2018.01.23] Koi no Shadanki feat. H ZETTRIO (恋の遮断機 feat.H ZETTRIO)
+* [2018.02.28] Saishujinrui (最終人類)
+* [2018.12.12] Mayoeba Totoshi (迷えば尊し)
+* [2019.02.06] Koi Geba (恋ゲバ)
+* [2020.04.30] OTONABLUE (オトナブルー)
+* [2020.05.15] Que Sera Sera (ケセラセラ)
+* [2020.05.22] Koibumi (恋文)
+* [2021.01.20] NAINAINAI
+* [2021.03.02] FREAKS feat.Warren Hue
+* [2021.09.21] Pineapple Kryptonite
+* [2022.01.25] Free Your Mind (Spanish Version)
+
+## Films
+* [2020-] Seishun Academy
+
