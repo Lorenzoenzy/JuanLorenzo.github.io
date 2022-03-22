@@ -61,6 +61,10 @@ Ishii Mizuki (石井美月)
 * Years Active: 2015-Present
 * Favorite Food: Bean sprouts
 
+# Spotify Playlist
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO2OZck1?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
 
 # Discography
 
