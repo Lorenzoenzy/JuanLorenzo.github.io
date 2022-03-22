@@ -92,3 +92,6 @@ Ishii Mizuki (石井美月)
 ## Films
 * [2020-] Seishun Academy
 
+### Ciations:
+https://jpop.fandom.com/wiki/Atarashii_Gakkou_no_Leaders
+
